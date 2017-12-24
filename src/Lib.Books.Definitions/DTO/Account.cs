@@ -1,7 +1,7 @@
 using System;
 using NodaMoney;
 
-namespace Lib.Books.Definitions.DTO
+namespace Lib.Books.Definitions
 {
     public class Account
     {

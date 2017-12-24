@@ -1,4 +1,5 @@
 ﻿using System;
+using Lib.Books.Definitions;
 using NodaMoney;
 
 namespace Lib.Books.Definitions
